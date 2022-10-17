@@ -26,4 +26,5 @@ play(player, quincy, 1000, verbose=True)
 Click the "run" button and main.py will run.
 
 <h3>Testing</h3>
+
 The unit tests for this project are in test_module.py. We imported the tests from test_module.py to main.py for your convenience. If you uncomment the last line in main.py, the tests will run automatically whenever you hit the "run" button.
